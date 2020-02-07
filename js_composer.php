@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: WPBakery Page Builder
+ * Plugin Name: WPBakery Page Builder - by Whello Indonesia
  * Plugin URI: http://wpbakery.com
  * Description: Drag and drop page builder for WordPress. Take full control over your WordPress site, build any layout you can imagine – no programming knowledge required.
  * Version: 6.1
- * Author: Michael M - WPBakery.com
+ * Author: Whello Indonesia
  * Author URI: http://wpbakery.com
  *
  * @package WPBakery Page Builder

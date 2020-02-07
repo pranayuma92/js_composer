@@ -67,7 +67,7 @@ class Vc_Manager {
 	 * @since 4.2
 	 * @var bool
 	 */
-	private $disable_updater = false;
+	private $disable_updater = true;
 	/**
 	 * Modules and objects instances list
 	 * @since 4.2

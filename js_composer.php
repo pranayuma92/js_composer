@@ -31,8 +31,9 @@ define( 'WPB_PLUGIN_FILE', __FILE__ );
 require_once $dir . '/include/classes/core/class-vc-manager.php';
 require_once $dir  . '/updater/plugin-update-checker.php';
 $UpdateChecker = Puc_v4_Factory::buildUpdateChecker(
-	'http://repo.ukmgood.com/beverage.json',
-	__FILE__
+	'https://github.com/pranayuma92/js_composer',
+	__FILE__,
+	'js_composer'
 );
 /**
  * Main WPBakery Page Builder manager.
